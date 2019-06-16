@@ -1,0 +1,32 @@
+body {
+	position: relative;
+}
+.jumbotron{
+	background-image: url(jumb.jpeg);
+	 background-repeat: no-repeat;
+	text-align: center;
+	color: #086A87;
+	margin-top: 50px;
+	
+}
+#txt{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.shift {
+	text-align: center;
+
+}
+h1 {
+	font-family: 'Lobster', cursive;
+}
+#footer {
+	background-color: black;
+	text-align: center;
+	margin-top: 30px;
+	padding: 20px;
+}
+.logo{
+	font-weight: bolder;
+}
